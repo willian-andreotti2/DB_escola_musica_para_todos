@@ -1,27 +1,34 @@
 # DB_escola_musica_para_todos
-Status Database Tools
+![Status](https://img.shields.io/badge/Status-Concluído-green)
+![Database](https://img.shields.io/badge/Database-MySQL-blue)
+![Tools](https://img.shields.io/badge/Tools-MySQL%20Workbench-orange)
 
 Projeto de banco de dados para gerenciar aulas de uma escola simples de música
 
-Sobre o Projeto
+## Sobre o Projeto
+
 Este repositório contém a modelagem e implementação de um banco de dados SQL completo. O objetivo foi aplicar conceitos avançados de Modelagem de Dados, Integridade Referencial (FK/PK) e Otimização de Consultas (Views).
 
-Principais Funcionalidades:
+### Principais Funcionalidades:
+
 cadastro de aluno
 cadastro de professores 
 cadastro de aulas
 
 
-📂 Estrutura do Repositório
+## 📂 Estrutura do Repositório
 O projeto foi organizado para facilitar tanto o estudo passo-a-passo quanto a execução rápida:
 
-Arquivo	Descrição
+## Arquivo	Descrição
 DB_Escola_musica_para_todos.sql	🏆 Arquivo Principal: Backup completo (Estrutura + Dados + Views). Ideal para importação rápida via "Data Import".
 Script_comando_insert.sql	Script DML: Povoamento inicial do banco com dados fictícios para testes.
 Script_comando_update-delete.sql	Exemplos práticos de manipulação de dados (CRUD).
 Script_comando_select.sql	Consultas (JOINs) e criação das Views.
 EER_Musica_para_todos.png	Imagem do Diagrama Entidade-Relacionamento (EER).
-Como Executar o Projeto
+
+
+## Como Executar o Projeto
+
 Você tem duas opções para rodar este banco de dados na sua máquina:
 
 Opção A: Instalação Rápida (Recomendada)
@@ -33,6 +40,6 @@ Pronto! O banco DB_Escola_musica_para_todos.sql será criado com tudo pronto.
 Opção B: Execução Passo a Passo (Educacional)
 
 
-✒️ Autor
+## ✒️ Autor
 
 Willian Andreotti Souza
